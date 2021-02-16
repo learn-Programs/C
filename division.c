@@ -12,13 +12,14 @@ int main() {
     scanf("%d", &b);
 
     // computes quotient
-    q  = a/b;
+    q  = a / b;
 
     // computes remainder.
-    re = a%b;
+    re = a % b;
 
     printf("Quotient = %d\n",q);
     printf("Remainder = %d\n", re);
     return 0;
 
 }
+
